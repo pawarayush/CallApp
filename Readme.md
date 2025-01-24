@@ -104,6 +104,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - Ayush Pawar
 
 Project Link: [https://github.com/yourusername/calling-app](https://github.com/yourusername/calling-app)
