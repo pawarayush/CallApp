@@ -62,7 +62,7 @@ The app requires the following permissions:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/calling-app.git
+git clone https://github.com/pawarayush/CallApp.git
 ```
 
 2. Open the project in Android Studio
@@ -96,18 +96,14 @@ git clone https://github.com/yourusername/calling-app.git
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 
 - Material Design Icons
 - Android Developer Documentation
-- [Add any other acknowledgments]
 
 ## Contact
 
 Your Name - Ayush Pawar
-
-Project Link: [https://github.com/yourusername/calling-app](https://github.com/yourusername/calling-app)
+Linkdin - https://www.linkedin.com/in/ayushpawar007/
+Project Link: https://github.com/pawarayush/CallApp
