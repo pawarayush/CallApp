@@ -20,7 +20,16 @@ A modern Android dialer application built with Jetpack Compose that provides cal
 
 ## Screenshots
 
-[Add your app screenshots here]
+![Dialer Screen](https://github.com/user-attachments/assets/61869b65-c5e6-455d-9fd0-367033d002c6)
+![Contact Screen](https://github.com/user-attachments/assets/6f833cef-c327-4935-adea-0074a19bd32f)
+![with contact](https://github.com/user-attachments/assets/fcc7ebb9-4fd6-403d-acd8-ebba2684c390)
+![call Log Screen](https://github.com/user-attachments/assets/6934e6cd-39a4-4c53-a056-ac473e29cc45)
+![Screenshot_20250125_133345](https://github.com/user-attachments/assets/f4b35044-4f3d-4219-b910-02d4114931b5)
+
+
+
+
+
 
 ## Tech Stack
 
